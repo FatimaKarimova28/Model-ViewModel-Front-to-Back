@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ibrah\\.nuget\\packages\\": {}
+    "C:\\Users\\fatimaika\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Model, ViewModel, Front to Back (Purple Buzz)\\Purple Buzz\\Purple Buzz\\Purple Buzz.csproj",
+      "projectUniqueName": "C:\\Users\\fatimaika\\Desktop\\Model-ViewModel-Front-to-Back\\Purple Buzz\\Purple Buzz\\Purple Buzz.csproj",
       "projectName": "Purple Buzz",
-      "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Model, ViewModel, Front to Back (Purple Buzz)\\Purple Buzz\\Purple Buzz\\Purple Buzz.csproj",
-      "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\Model, ViewModel, Front to Back (Purple Buzz)\\Purple Buzz\\Purple Buzz\\obj\\",
+      "projectPath": "C:\\Users\\fatimaika\\Desktop\\Model-ViewModel-Front-to-Back\\Purple Buzz\\Purple Buzz\\Purple Buzz.csproj",
+      "packagesPath": "C:\\Users\\fatimaika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fatimaika\\Desktop\\Model-ViewModel-Front-to-Back\\Purple Buzz\\Purple Buzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fatimaika\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
